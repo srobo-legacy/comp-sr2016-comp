@@ -1,0 +1,160 @@
+teams:
+  ABD:
+    name: Abingdon School
+    rookie: true
+  BDF:
+    name: Bedford School
+    rookie: false
+  BGS:
+    name: BGS
+    rookie: false
+  BPV:
+    name: In Sync
+    rookie: false
+  BRK:
+    name: Where's Me Jumper?
+    rookie: false
+  BRN:
+    name: COMPUTER (WO)MANS
+    rookie: false
+  BTE:
+    name: Team Marvin
+    rookie: false
+  BWS:
+    name: Overclocked Toaster
+    rookie: false
+  CAT:
+    name: CATS College Cambridge
+    rookie: false
+  CBG:
+    name: Coombe Girls' School
+    rookie: true
+  CDU:
+    name: Cedars Upper School
+    rookie: false
+  CGS:
+    name: CGS Robotics
+    rookie: false
+  CHB:
+    name: King Edward VI Camp Hill School for Boys
+    rookie: false
+  CHW:
+    name: !!python/str "\u03A9HMERATOR - Resistance is futile"
+    rookie: true
+  CLC:
+    name: Southbridge
+    rookie: false
+  CLF:
+    name: Trippy
+    rookie: false
+  CLY:
+    name: Collyers Sixth Form College
+    rookie: false
+  COR:
+    name: TCS Robotics
+    rookie: true
+  CPR:
+    name: Bicester Ocelots
+    rookie: false
+  CRB:
+    name: Cranbrook School
+    rookie: false
+  DUL:
+    name: DC Robotics
+    rookie: false
+  GRD:
+    name: Gordano School
+    rookie: false
+  HAM:
+    name: Team Technologic
+    rookie: false
+  HAY:
+    name: Haydon Robotics
+    rookie: true
+  HKS:
+    name: Gymnasium Hohenkirchen-Siegertsbrunn
+    rookie: true
+  HLB:
+    name: HBY
+    rookie: true
+  HRS:
+    name: Systemetric, Hills Road Sixth Form College
+    rookie: false
+  HSO:
+    name: HSO Robotics
+    rookie: false
+  HZW:
+    name: Hazelwick Team
+    rookie: false
+  KDE:
+    name: Tyrannous Techies
+    rookie: false
+  KEG:
+    name: KEGS
+    rookie: false
+  KES:
+    name: Rock the Kesbah
+    rookie: false
+  KEV:
+    name: King Edward VI School
+    rookie: true
+  KTC:
+    name: Kingsthorpe College
+    rookie: true
+  LFG:
+    name: Lion-Feuchtwanger-Gymnasium
+    rookie: false
+  LSS:
+    name: Lawrence Sheriff School
+    rookie: false
+  MAI:
+    name: Team MAI
+    rookie: false
+  MCS:
+    name: MCS - Magdalen College School
+    rookie: false
+  MFG:
+    name: The Mirfield Free Grammar and Sixth Form
+    rookie: false
+  PSC:
+    name: PSC Robotics
+    rookie: false
+  QEH:
+    name: QEH Bristol
+    rookie: false
+  QMC:
+    name: Team QMC
+    rookie: false
+  RGS:
+    name: RGS Guildford
+    rookie: false
+  SCS:
+    name: Silcoates School
+    rookie: true
+  SEN:
+    name: Southend High School for Boys
+    rookie: false
+  SWI:
+    name: SWGS Computer Science
+    rookie: false
+  TBG:
+    name: Torquay Boy's Grammar School
+    rookie: false
+  TLC:
+    name: The Ladies' College
+    rookie: true
+  TTN:
+    name: TTN Robotics
+    rookie: false
+  TWG:
+    name: TWGSBrobotics
+    rookie: false
+  UVH:
+    name: Ulverston Victoria High School
+    rookie: true
+  WGS:
+    name: Wisbech Grammar School
+    rookie: false
+  WHS:
+    name: Westcliff High School for Girls
+    rookie: false
