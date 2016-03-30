@@ -1,7 +1,7 @@
 
 class Scorer:
     def __init__(self, teams_data, arena_data = None):
-        self._teams_data = teams_data,
+        self._teams_data = teams_data
         self._arena_data = arena_data or {}
 
     def calculate_scores(self):
