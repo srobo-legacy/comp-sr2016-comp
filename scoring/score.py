@@ -5,7 +5,7 @@ class Scorer:
         self._arena_data = arena_data or {}
 
     def calculate_scores(self):
-        scores = {tla: 0 for tla in self._scoresheet.keys()}
+        scores = {tla: 0 for tla in self._teams_data.keys()}
         return scores
 
     def validate(self, extra):
