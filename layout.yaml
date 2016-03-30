@@ -9,7 +9,7 @@
 
 teams:
 # Floor 0 starts here
-  floor-0-group-0:
+  - name: floor-0-group-0
     display_name: Group 0, Ground Floor
     teams:
     - RGS
@@ -17,7 +17,7 @@ teams:
     - COR
     - ABD
 
-  floor-0-group-1:
+  - name: floor-0-group-1
     display_name: Group 1, Ground Floor
     teams:
     - BWS
@@ -25,7 +25,7 @@ teams:
     - HSO
     - CDU
 
-  floor-0-group-2:
+  - name: floor-0-group-2
     display_name: Group 2, Ground Floor
     teams:
     - UVH
@@ -33,7 +33,7 @@ teams:
     - SEN
     - SCS
 
-  floor-0-group-3:
+  - name: floor-0-group-3
     display_name: Group 3, Ground Floor
     teams:
     - TTN
@@ -41,7 +41,7 @@ teams:
     - BDF
     - DUL
 
-  floor-0-group-4:
+  - name: floor-0-group-4
     display_name: Group 4, Ground Floor
     teams:
     - CLF
@@ -49,14 +49,14 @@ teams:
     - CLC
     - TLC
 
-  floor-0-group-5:
+  - name: floor-0-group-5
     display_name: Group 5, Ground Floor
     teams:
     - HAY
     - WGS
 
 # Floor 2 starts here
-  floor-2-group-0:
+  - name: floor-2-group-0
     display_name: Group 0, Second Floor
     teams:
     - CHW
@@ -64,7 +64,7 @@ teams:
     - CBG
     - KEG
 
-  floor-2-group-1:
+  - name: floor-2-group-1
     display_name: Group 1, Second Floor
     teams:
     - PSC
@@ -72,7 +72,7 @@ teams:
     - BTE
     - KES
 
-  floor-2-group-2:
+  - name: floor-2-group-2
     display_name: Group 2, Second Floor
     teams:
     - BGS
@@ -80,7 +80,7 @@ teams:
     - HKS
     - KEV
 
-  floor-2-group-3:
+  - name: floor-2-group-3
     display_name: Group 3, Second Floor
     teams:
     - MCS
@@ -88,7 +88,7 @@ teams:
     - TWG
     - CRB
 
-  floor-2-group-4:
+  - name: floor-2-group-4
     display_name: Group 4, Second Floor
     teams:
     - BPV
@@ -96,7 +96,7 @@ teams:
     - LFG
     - MFG
 
-  floor-2-group-5:
+  - name: floor-2-group-5
     display_name: Group 5, Second Floor
     teams:
     - LSS
@@ -104,7 +104,7 @@ teams:
     - HAM
     - GRD
 
-  floor-2-group-6:
+  - name: floor-2-group-6
     display_name: Group 6, Second Floor
     teams:
     - CLY
@@ -112,7 +112,7 @@ teams:
     - HZW
     - BRN
 
-  floor-2-group-7:
+  - name: floor-2-group-7
     display_name: Group 7, Second Floor
     teams:
     - MAI
