@@ -11,6 +11,9 @@ teams:
   BPV:
     name: In Sync
     rookie: false
+  BPV2:
+    name: Barton Peveril College
+    rookie: false
   BRK:
     name: Where's Me Jumper?
     rookie: false
@@ -45,7 +48,7 @@ teams:
     name: Southbridge
     rookie: false
   CLF:
-    name: Trippy
+    name: Hammer-Time
     rookie: false
   CLY:
     name: Collyers Sixth Form College
@@ -65,14 +68,14 @@ teams:
   GRD:
     name: Gordano School
     rookie: false
+  GRD2:
+    name: Gordano School
+    rookie: false
   HAM:
     name: Team Technologic
     rookie: false
   HAY:
     name: Haydon Robotics
-    rookie: true
-  HKS:
-    name: Gymnasium Hohenkirchen-Siegertsbrunn
     rookie: true
   HLB:
     name: HBY
@@ -101,9 +104,6 @@ teams:
   KTC:
     name: Kingsthorpe College
     rookie: true
-  LFG:
-    name: Lion-Feuchtwanger-Gymnasium
-    rookie: false
   LSS:
     name: Lawrence Sheriff School
     rookie: false
@@ -118,6 +118,9 @@ teams:
     rookie: false
   PSC:
     name: PSC Robotics
+    rookie: false
+  PSC2:
+    name: Peter Symonds
     rookie: false
   QEH:
     name: QEH Bristol
@@ -134,9 +137,6 @@ teams:
   SEN:
     name: Southend High School for Boys
     rookie: false
-  SWI:
-    name: SWGS Computer Science
-    rookie: false
   TBG:
     name: Torquay Boy's Grammar School
     rookie: false
@@ -149,9 +149,6 @@ teams:
   TWG:
     name: TWGSBrobotics
     rookie: false
-  UVH:
-    name: Ulverston Victoria High School
-    rookie: true
   WGS:
     name: Wisbech Grammar School
     rookie: false

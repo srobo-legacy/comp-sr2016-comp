@@ -29,93 +29,92 @@ teams:
 - name: floor-0-group-2
   display_name: Group 2, Ground Floor
   teams:
-  - UVH
   - WHS
   - SEN
   - SCS
+  - TTN
 #
 - name: floor-0-group-3
   display_name: Group 3, Ground Floor
   teams:
-  - TTN
   - CHB
   - BDF
   - DUL
+  - CLF
 #
 - name: floor-0-group-4
   display_name: Group 4, Ground Floor
   teams:
-  - CLF
   - HRS
   - CLC
   - TLC
+  - HAY
 #
 - name: floor-0-group-5
   display_name: Group 5, Ground Floor
   teams:
-  - HAY
   - WGS
+  - CHW
 #
 # Floor 2 starts here
 - name: floor-2-group-0
   display_name: Group 0, Second Floor
   teams:
-  - CHW
   - KTC
   - CBG
   - KEG
+  - PSC
 #
 - name: floor-2-group-1
   display_name: Group 1, Second Floor
   teams:
-  - PSC
   - HLB
   - BTE
   - KES
+  - BGS
 #
 - name: floor-2-group-2
   display_name: Group 2, Second Floor
   teams:
-  - BGS
   - BRK
-  - HKS
   - KEV
+  - MCS
+  - PSC2
 #
 - name: floor-2-group-3
   display_name: Group 3, Second Floor
   teams:
-  - MCS
-  - SWI
   - TWG
   - CRB
+  - BPV
+  - CPR
 #
 - name: floor-2-group-4
   display_name: Group 4, Second Floor
   teams:
-  - BPV
-  - CPR
-  - LFG
   - MFG
+  - LSS
+  - CGS
+  - HAM
 #
 - name: floor-2-group-5
   display_name: Group 5, Second Floor
   teams:
-  - LSS
-  - CGS
-  - HAM
   - GRD
+  - CLY
+  - QMC
+  - HZW
 #
 - name: floor-2-group-6
   display_name: Group 6, Second Floor
   teams:
-  - CLY
-  - QMC
-  - HZW
   - BRN
+  - MAI
+  - KDE
+  - TBG
 #
 - name: floor-2-group-7
   display_name: Group 7, Second Floor
   teams:
-  - MAI
-  - KDE
-  - TBG
+  - GRD2
+  - BPV2
