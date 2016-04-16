@@ -5,8 +5,6 @@
 # While probably not entirely optimal, this should result in a fairly
 # short path for someone needing to visit all teams.
 #
-# Location names aren't used, but make this file easier to update.
-#
 teams:
 #
 # Floor 0 starts here
