@@ -24,12 +24,10 @@ timezone: Europe/London
 delays:
 # The first three are pre-set delays timed to coincide with the change-over
 # times for the shepherds
-- delay: 300
+- delay: 600
   time: 2016-04-30 15:00:00+01:00
-- delay: 300
+- delay: 600
   time: 2016-05-01 11:00:00+01:00
-- delay: 300
-  time: 2016-05-01 15:00:00+01:00
 #
 match_periods:
   league:
@@ -52,7 +50,7 @@ match_periods:
 
 #
   - start_time: 2016-05-01 13:15:00+01:00
-    end_time: 2016-05-01 14:50:00+01:00
+    end_time: 2016-05-01 14:45:00+01:00
     description: Sunday league, afternoon
 #
   knockout:
