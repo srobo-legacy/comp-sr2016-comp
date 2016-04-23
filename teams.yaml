@@ -39,7 +39,7 @@ teams:
     name: CGS Robotics
     rookie: false
   CHB:
-    name: King Edward VI Camp Hill School for Boys
+    name: Camp Hill Student Robotics
     rookie: false
   CHW:
     name: !!python/str "\u03A9HMERATOR - Resistance is futile"
@@ -108,7 +108,7 @@ teams:
     name: Lawrence Sheriff School
     rookie: false
   MAI:
-    name: Team MAI
+    name: Measure Analyze Improve
     rookie: false
   MCS:
     name: MCS - Magdalen College School
