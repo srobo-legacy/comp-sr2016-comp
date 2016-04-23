@@ -20,9 +20,6 @@ teams:
   BRN:
     name: COMPUTER (WO)MANS
     rookie: false
-  BTE:
-    name: Team Marvin
-    rookie: false
   BWS:
     name: Overclocked Toaster
     rookie: false
@@ -32,9 +29,6 @@ teams:
   CBG:
     name: Coombe Girls' School
     rookie: true
-  CDU:
-    name: Cedars Upper School
-    rookie: false
   CGS:
     name: CGS Robotics
     rookie: false
@@ -110,9 +104,6 @@ teams:
   MAI:
     name: Measure Analyze Improve
     rookie: false
-  MCS:
-    name: MCS - Magdalen College School
-    rookie: false
   MFG:
     name: The Mirfield Free Grammar and Sixth Form
     rookie: false
@@ -151,7 +142,4 @@ teams:
     rookie: false
   WGS:
     name: Wisbech Grammar School
-    rookie: false
-  WHS:
-    name: Westcliff High School for Girls
     rookie: false
