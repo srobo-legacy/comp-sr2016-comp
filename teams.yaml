@@ -5,9 +5,6 @@ teams:
   BDF:
     name: Bedford School
     rookie: false
-  BGS:
-    name: BGS
-    rookie: false
   BPV:
     name: In Sync
     rookie: false
@@ -70,9 +67,6 @@ teams:
     rookie: false
   HAY:
     name: Haydon Robotics
-    rookie: true
-  HLB:
-    name: HBY
     rookie: true
   HRS:
     name: Systemetric, Hills Road Sixth Form College

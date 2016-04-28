@@ -60,55 +60,45 @@ teams:
   teams:
   - KEG
   - PSC
-  - HLB
   - KES
+  - BRK
 #
 - name: floor-2-group-1
   display_name: Group 1, Second Floor
   teams:
-  - BGS
-  - BRK
   - KEV
   - PSC2
+  - TWG
+  - CRB
 #
 - name: floor-2-group-2
   display_name: Group 2, Second Floor
   teams:
-  - TWG
-  - CRB
   - BPV
   - CPR
+  - MFG
+  - LSS
 #
 - name: floor-2-group-3
   display_name: Group 3, Second Floor
   teams:
-  - MFG
-  - LSS
   - CGS
   - HAM
+  - GRD
+  - CLY
 #
 - name: floor-2-group-4
   display_name: Group 4, Second Floor
   teams:
-  - GRD
-  - CLY
   - QMC
   - HZW
+  - BRN
+  - MAI
 #
 - name: floor-2-group-5
   display_name: Group 5, Second Floor
   teams:
-  - BRN
-  - MAI
   - KDE
   - TBG
-#
-- name: floor-2-group-6
-  display_name: Group 6, Second Floor
-  teams:
   - GRD2
   - BPV2
-#
-- name: floor-2-group-7
-  display_name: Group 7, Second Floor
-  teams: []
