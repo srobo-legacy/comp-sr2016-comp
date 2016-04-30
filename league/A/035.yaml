@@ -1,0 +1,26 @@
+arena_id: A
+arena_zones:
+  0:
+    tokens: ''
+  1:
+    tokens: ''
+  2:
+    tokens: ''
+  3:
+    tokens: ''
+  other:
+    tokens: WWWWWGOPY
+match_number: 35
+teams:
+  BPV2:
+    disqualified: false
+    present: true
+    zone: 2
+  KES:
+    disqualified: false
+    present: false
+    zone: 0
+  PSC2:
+    disqualified: false
+    present: true
+    zone: 3
