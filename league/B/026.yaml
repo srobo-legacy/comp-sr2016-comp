@@ -1,0 +1,30 @@
+arena_id: B
+arena_zones:
+  0:
+    tokens: ''
+  1:
+    tokens: ''
+  2:
+    tokens: W
+  3:
+    tokens: ''
+  other:
+    tokens: POYGWWWW
+match_number: 26
+teams:
+  BDF:
+    disqualified: false
+    present: false
+    zone: 2
+  CHW:
+    disqualified: false
+    present: true
+    zone: 0
+  QEH:
+    disqualified: false
+    present: true
+    zone: 1
+  TLC:
+    disqualified: false
+    present: true
+    zone: 3
