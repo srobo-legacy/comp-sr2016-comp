@@ -1,0 +1,30 @@
+arena_id: B
+arena_zones:
+  0:
+    tokens: ''
+  1:
+    tokens: ''
+  2:
+    tokens: ''
+  3:
+    tokens: W
+  other:
+    tokens: WWWWWGOP
+match_number: 43
+teams:
+  CAT:
+    disqualified: false
+    present: true
+    zone: 1
+  CHB:
+    disqualified: false
+    present: true
+    zone: 0
+  CRB:
+    disqualified: false
+    present: true
+    zone: 3
+  HAM:
+    disqualified: false
+    present: true
+    zone: 2
