@@ -1,0 +1,26 @@
+arena_id: B
+arena_zones:
+  0:
+    tokens: ''
+  1:
+    tokens: ''
+  2:
+    tokens: W
+  3:
+    tokens: ''
+  other:
+    tokens: WWWWGOPY
+match_number: 59
+teams:
+  BRN:
+    disqualified: false
+    present: true
+    zone: 3
+  DUL:
+    disqualified: false
+    present: true
+    zone: 2
+  KTC:
+    disqualified: false
+    present: false
+    zone: 1
