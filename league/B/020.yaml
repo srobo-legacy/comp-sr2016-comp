@@ -1,0 +1,30 @@
+arena_id: B
+arena_zones:
+  0:
+    tokens: ''
+  1:
+    tokens: ''
+  2:
+    tokens: ''
+  3:
+    tokens: Y
+  other:
+    tokens: GWWWWPWO
+match_number: 20
+teams:
+  BRK:
+    disqualified: false
+    present: true
+    zone: 2
+  GRD:
+    disqualified: false
+    present: true
+    zone: 3
+  KTC:
+    disqualified: false
+    present: false
+    zone: 1
+  QEH:
+    disqualified: false
+    present: true
+    zone: 0
