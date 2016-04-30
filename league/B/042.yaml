@@ -1,0 +1,30 @@
+arena_id: B
+arena_zones:
+  0:
+    tokens: ''
+  1:
+    tokens: ''
+  2:
+    tokens: ''
+  3:
+    tokens: ''
+  other:
+    tokens: WWWWWGPOY
+match_number: 42
+teams:
+  BWS:
+    disqualified: false
+    present: true
+    zone: 3
+  CGS:
+    disqualified: false
+    present: true
+    zone: 1
+  HAY:
+    disqualified: false
+    present: true
+    zone: 2
+  KTC:
+    disqualified: false
+    present: false
+    zone: 0
