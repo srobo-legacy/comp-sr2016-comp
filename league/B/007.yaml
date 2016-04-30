@@ -1,0 +1,30 @@
+arena_id: B
+arena_zones:
+  0:
+    tokens: ''
+  1:
+    tokens: ''
+  2:
+    tokens: ''
+  3:
+    tokens: ''
+  other:
+    tokens: GOPYWWWWW
+match_number: 7
+teams:
+  BWS:
+    disqualified: false
+    present: true
+    zone: 3
+  CBG:
+    disqualified: false
+    present: false
+    zone: 1
+  COR:
+    disqualified: false
+    present: false
+    zone: 0
+  HRS:
+    disqualified: false
+    present: true
+    zone: 2
