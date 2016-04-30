@@ -1,0 +1,26 @@
+arena_id: B
+arena_zones:
+  0:
+    tokens: G
+  1:
+    tokens: ''
+  2:
+    tokens: P
+  3:
+    tokens: ''
+  other:
+    tokens: YOWWWWW
+match_number: 5
+teams:
+  BPV2:
+    disqualified: false
+    present: true
+    zone: 3
+  GRD2:
+    disqualified: false
+    present: true
+    zone: 2
+  KDE:
+    disqualified: true
+    present: true
+    zone: 0
