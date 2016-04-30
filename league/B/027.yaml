@@ -1,0 +1,30 @@
+arena_id: B
+arena_zones:
+  0:
+    tokens: ''
+  1:
+    tokens: ''
+  2:
+    tokens: P
+  3:
+    tokens: ''
+  other:
+    tokens: YGOWWWWW
+match_number: 27
+teams:
+  COR:
+    disqualified: false
+    present: false
+    zone: 3
+  KDE:
+    disqualified: false
+    present: true
+    zone: 2
+  KEV:
+    disqualified: false
+    present: false
+    zone: 0
+  TWG:
+    disqualified: false
+    present: true
+    zone: 1
