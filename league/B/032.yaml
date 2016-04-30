@@ -1,0 +1,30 @@
+arena_id: B
+arena_zones:
+  0:
+    tokens: ''
+  1:
+    tokens: ''
+  2:
+    tokens: ''
+  3:
+    tokens: ''
+  other:
+    tokens: WWWWWPOGY
+match_number: 32
+teams:
+  BDF:
+    disqualified: false
+    present: true
+    zone: 3
+  COR:
+    disqualified: false
+    present: false
+    zone: 1
+  KTC:
+    disqualified: false
+    present: false
+    zone: 0
+  PSC:
+    disqualified: false
+    present: true
+    zone: 2
