@@ -1,0 +1,26 @@
+arena_id: A
+arena_zones:
+  0:
+    tokens: ''
+  1:
+    tokens: O
+  2:
+    tokens: ''
+  3:
+    tokens: ''
+  other:
+    tokens: YWWWOWPP
+match_number: 0
+teams:
+  CAT:
+    disqualified: false
+    present: true
+    zone: 2
+  COR:
+    disqualified: false
+    present: false
+    zone: 3
+  RGS:
+    disqualified: false
+    present: true
+    zone: 1
