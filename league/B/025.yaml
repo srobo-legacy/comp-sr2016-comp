@@ -1,0 +1,30 @@
+arena_id: B
+arena_zones:
+  0:
+    tokens: ''
+  1:
+    tokens: O
+  2:
+    tokens: ''
+  3:
+    tokens: ''
+  other:
+    tokens: PGYWWWWW
+match_number: 25
+teams:
+  CLF:
+    disqualified: false
+    present: true
+    zone: 2
+  KTC:
+    disqualified: false
+    present: false
+    zone: 0
+  LSS:
+    disqualified: false
+    present: true
+    zone: 1
+  MAI:
+    disqualified: false
+    present: true
+    zone: 3
