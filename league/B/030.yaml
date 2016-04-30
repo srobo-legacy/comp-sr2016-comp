@@ -1,0 +1,30 @@
+arena_id: B
+arena_zones:
+  0:
+    tokens: ''
+  1:
+    tokens: OYW
+  2:
+    tokens: P
+  3:
+    tokens: ''
+  other:
+    tokens: GWWWW
+match_number: 30
+teams:
+  CLF:
+    disqualified: false
+    present: true
+    zone: 1
+  DUL:
+    disqualified: false
+    present: true
+    zone: 3
+  RGS:
+    disqualified: false
+    present: true
+    zone: 2
+  WGS:
+    disqualified: false
+    present: true
+    zone: 0
