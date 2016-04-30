@@ -1,0 +1,30 @@
+arena_id: A
+arena_zones:
+  0:
+    tokens: ''
+  1:
+    tokens: W
+  2:
+    tokens: ''
+  3:
+    tokens: ''
+  other:
+    tokens: GWOWWWYP
+match_number: 14
+teams:
+  ABD:
+    disqualified: false
+    present: true
+    zone: 0
+  CGS:
+    disqualified: false
+    present: true
+    zone: 3
+  COR:
+    disqualified: false
+    present: false
+    zone: 2
+  KEV:
+    disqualified: false
+    present: false
+    zone: 1
