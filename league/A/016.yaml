@@ -1,0 +1,30 @@
+arena_id: A
+arena_zones:
+  0:
+    tokens: ''
+  1:
+    tokens: ''
+  2:
+    tokens: ''
+  3:
+    tokens: Y
+  other:
+    tokens: WWWWWPOG
+match_number: 16
+teams:
+  BRN:
+    disqualified: false
+    present: true
+    zone: 0
+  CHW:
+    disqualified: false
+    present: true
+    zone: 2
+  CLC:
+    disqualified: false
+    present: false
+    zone: 1
+  GRD2:
+    disqualified: false
+    present: true
+    zone: 3
