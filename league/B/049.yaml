@@ -1,0 +1,30 @@
+arena_id: B
+arena_zones:
+  0:
+    tokens: ''
+  1:
+    tokens: WP
+  2:
+    tokens: ''
+  3:
+    tokens: Y
+  other:
+    tokens: GYPPYW
+match_number: 49
+teams:
+  CGS:
+    disqualified: false
+    present: true
+    zone: 2
+  PSC:
+    disqualified: false
+    present: true
+    zone: 1
+  RGS:
+    disqualified: false
+    present: true
+    zone: 3
+  TLC:
+    disqualified: false
+    present: true
+    zone: 0
