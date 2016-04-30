@@ -122,9 +122,6 @@ teams:
   SEN:
     name: Southend High School for Boys
     rookie: false
-  TBG:
-    name: Torquay Boy's Grammar School
-    rookie: false
   TLC:
     name: The Ladies' College
     rookie: true
