@@ -1,0 +1,30 @@
+arena_id: A
+arena_zones:
+  0:
+    tokens: ''
+  1:
+    tokens: Y
+  2:
+    tokens: ''
+  3:
+    tokens: Y
+  other:
+    tokens: WWWWYGP
+match_number: 46
+teams:
+  BPV:
+    disqualified: false
+    present: true
+    zone: 3
+  KEV:
+    disqualified: false
+    present: false
+    zone: 2
+  MAI:
+    disqualified: false
+    present: true
+    zone: 1
+  SCS:
+    disqualified: false
+    present: true
+    zone: 0
