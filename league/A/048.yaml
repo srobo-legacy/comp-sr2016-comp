@@ -1,0 +1,30 @@
+arena_id: A
+arena_zones:
+  0:
+    tokens: ''
+  1:
+    tokens: ''
+  2:
+    tokens: ''
+  3:
+    tokens: O
+  other:
+    tokens: GOPWWWWW
+match_number: 48
+teams:
+  BWS:
+    disqualified: false
+    present: true
+    zone: 2
+  CRB:
+    disqualified: false
+    present: true
+    zone: 3
+  GRD:
+    disqualified: false
+    present: true
+    zone: 1
+  LSS:
+    disqualified: false
+    present: true
+    zone: 0
