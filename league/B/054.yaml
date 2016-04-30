@@ -1,0 +1,30 @@
+arena_id: B
+arena_zones:
+  0:
+    tokens: ''
+  1:
+    tokens: ''
+  2:
+    tokens: O
+  3:
+    tokens: ''
+  other:
+    tokens: WWWWWGPY
+match_number: 54
+teams:
+  ABD:
+    disqualified: false
+    present: true
+    zone: 2
+  CGS:
+    disqualified: false
+    present: true
+    zone: 0
+  CRB:
+    disqualified: false
+    present: true
+    zone: 3
+  KEG:
+    disqualified: false
+    present: true
+    zone: 1
