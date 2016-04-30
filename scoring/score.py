@@ -25,7 +25,6 @@ class Scorer:
 
     def calculate_scores(self):
         total_points = Counter(self._all_tokens)
-        print(total_points)
 
         scores = {}
         for tla, info in self._teams_data.items():
