@@ -1,0 +1,30 @@
+arena_id: A
+arena_zones:
+  0:
+    tokens: ''
+  1:
+    tokens: ''
+  2:
+    tokens: ''
+  3:
+    tokens: ''
+  other:
+    tokens: WWWWWGOPY
+match_number: 42
+teams:
+  ABD:
+    disqualified: false
+    present: true
+    zone: 2
+  GRD:
+    disqualified: false
+    present: true
+    zone: 3
+  KEG:
+    disqualified: false
+    present: true
+    zone: 1
+  WGS:
+    disqualified: false
+    present: true
+    zone: 0
