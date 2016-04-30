@@ -7,9 +7,9 @@ arena_zones:
   2:
     tokens: ''
   3:
-    tokens: ''
+    tokens: W
   other:
-    tokens: WWWWWGOPY
+    tokens: WWWWGOPY
 match_number: 53
 teams:
   BRN:
