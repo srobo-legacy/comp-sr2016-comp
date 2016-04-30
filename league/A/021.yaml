@@ -1,0 +1,26 @@
+arena_id: A
+arena_zones:
+  0:
+    tokens: ''
+  1:
+    tokens: ''
+  2:
+    tokens: ''
+  3:
+    tokens: ''
+  other:
+    tokens: GWOWWWYWP
+match_number: 21
+teams:
+  HAY:
+    disqualified: false
+    present: true
+    zone: 3
+  KEV:
+    disqualified: false
+    present: false
+    zone: 2
+  SEN:
+    disqualified: false
+    present: true
+    zone: 0
