@@ -1,0 +1,30 @@
+arena_id: A
+arena_zones:
+  0:
+    tokens: ''
+  1:
+    tokens: ''
+  2:
+    tokens: ''
+  3:
+    tokens: ''
+  other:
+    tokens: GOPYWWWWW
+match_number: 40
+teams:
+  CPR:
+    disqualified: false
+    present: true
+    zone: 2
+  KDE:
+    disqualified: false
+    present: true
+    zone: 1
+  KES:
+    disqualified: false
+    present: false
+    zone: 0
+  QEH:
+    disqualified: false
+    present: true
+    zone: 3
