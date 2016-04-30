@@ -12,10 +12,18 @@ arena_zones:
     tokens: WWWWWGOPY
 match_number: 2
 teams:
+  CLC:
+    disqualified: false
+    present: false
+    zone: 1
   HAY:
     disqualified: false
     present: true
     zone: 3
+  HRS:
+    disqualified: false
+    present: false
+    zone: 0
   TLC:
     disqualified: false
     present: true
