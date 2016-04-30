@@ -1,0 +1,22 @@
+arena_id: A
+arena_zones:
+  0:
+    tokens: ''
+  1:
+    tokens: ''
+  2:
+    tokens: ''
+  3:
+    tokens: ''
+  other:
+    tokens: POGYWWWWW
+match_number: 29
+teams:
+  CPR:
+    disqualified: false
+    present: false
+    zone: 2
+  HRS:
+    disqualified: false
+    present: true
+    zone: 1
