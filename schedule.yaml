@@ -15,10 +15,10 @@ staging:
   # How long before the start of the match to signal to shepherds they
   # should start looking for teams
   signal_shepherds:
-    Yellow: 360
-    Green: 360
-    Red: 480
-    Blue: 480
+    Yellow: 420
+    Green: 420
+    Red: 600
+    Blue: 600
   # How long before the start of the match to signal to teams they should
   # go to staging. Use a value of 0 so this never happens.
   signal_teams: 0
