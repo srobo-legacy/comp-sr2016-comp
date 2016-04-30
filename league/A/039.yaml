@@ -1,0 +1,26 @@
+arena_id: A
+arena_zones:
+  0:
+    tokens: ''
+  1:
+    tokens: ''
+  2:
+    tokens: ''
+  3:
+    tokens: ''
+  other:
+    tokens: WWWWWGOOP
+match_number: 39
+teams:
+  HRS:
+    disqualified: false
+    present: true
+    zone: 1
+  MAI:
+    disqualified: false
+    present: true
+    zone: 0
+  SEN:
+    disqualified: false
+    present: true
+    zone: 3
