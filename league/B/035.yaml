@@ -1,0 +1,30 @@
+arena_id: B
+arena_zones:
+  0:
+    tokens: ''
+  1:
+    tokens: O
+  2:
+    tokens: ''
+  3:
+    tokens: ''
+  other:
+    tokens: WWWWWGYP
+match_number: 35
+teams:
+  BPV:
+    disqualified: false
+    present: true
+    zone: 3
+  BRN:
+    disqualified: false
+    present: false
+    zone: 2
+  CPR:
+    disqualified: false
+    present: false
+    zone: 0
+  GRD2:
+    disqualified: false
+    present: true
+    zone: 1
