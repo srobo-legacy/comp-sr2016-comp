@@ -9,7 +9,7 @@ arena_zones:
   3:
     tokens: YW
   other:
-    tokens: GOPWW
+    tokens: GPWWY
 match_number: 114
 teams:
   DUL:
