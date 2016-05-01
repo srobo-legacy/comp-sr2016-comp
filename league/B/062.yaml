@@ -1,0 +1,30 @@
+arena_id: B
+arena_zones:
+  0:
+    tokens: ''
+  1:
+    tokens: ''
+  2:
+    tokens: ''
+  3:
+    tokens: ''
+  other:
+    tokens: WWWWWPOYG
+match_number: 62
+teams:
+  BPV:
+    disqualified: false
+    present: true
+    zone: 3
+  CAT:
+    disqualified: false
+    present: true
+    zone: 2
+  QMC:
+    disqualified: false
+    present: false
+    zone: 0
+  TLC:
+    disqualified: false
+    present: true
+    zone: 1
