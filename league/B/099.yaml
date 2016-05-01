@@ -1,0 +1,26 @@
+arena_id: B
+arena_zones:
+  0:
+    tokens: ''
+  1:
+    tokens: OO
+  2:
+    tokens: ''
+  3:
+    tokens: ''
+  other:
+    tokens: WWWWGPY
+match_number: 99
+teams:
+  ABD:
+    disqualified: false
+    present: true
+    zone: 0
+  MFG:
+    disqualified: false
+    present: true
+    zone: 3
+  RGS:
+    disqualified: false
+    present: true
+    zone: 1
