@@ -1,0 +1,30 @@
+arena_id: B
+arena_zones:
+  0:
+    tokens: ''
+  1:
+    tokens: ''
+  2:
+    tokens: P
+  3:
+    tokens: Y
+  other:
+    tokens: GOWWWWW
+match_number: 87
+teams:
+  BRN:
+    disqualified: false
+    present: true
+    zone: 1
+  HAM:
+    disqualified: false
+    present: true
+    zone: 3
+  RGS:
+    disqualified: false
+    present: true
+    zone: 2
+  SCS:
+    disqualified: false
+    present: true
+    zone: 0
