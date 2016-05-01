@@ -21,6 +21,6 @@ teams:
     present: true
     zone: 1
   HSO:
-    disqualified: true
-    present: false
+    disqualified: false
+    present: true
     zone: 3
