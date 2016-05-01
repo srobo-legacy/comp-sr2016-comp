@@ -1,0 +1,30 @@
+arena_id: A
+arena_zones:
+  0:
+    tokens: ''
+  1:
+    tokens: O
+  2:
+    tokens: WWP
+  3:
+    tokens: Y
+  other:
+    tokens: WWWG
+match_number: 83
+teams:
+  ABD:
+    disqualified: false
+    present: true
+    zone: 1
+  CLY:
+    disqualified: false
+    present: true
+    zone: 2
+  DUL:
+    disqualified: false
+    present: true
+    zone: 3
+  GRD2:
+    disqualified: false
+    present: true
+    zone: 0
