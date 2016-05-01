@@ -1,0 +1,30 @@
+arena_id: A
+arena_zones:
+  0:
+    tokens: ''
+  1:
+    tokens: OWPW
+  2:
+    tokens: P
+  3:
+    tokens: Y
+  other:
+    tokens: WWG
+match_number: 111
+teams:
+  BWS:
+    disqualified: false
+    present: true
+    zone: 0
+  CGS:
+    disqualified: true
+    present: true
+    zone: 2
+  CRB:
+    disqualified: false
+    present: true
+    zone: 1
+  GRD2:
+    disqualified: false
+    present: true
+    zone: 3
