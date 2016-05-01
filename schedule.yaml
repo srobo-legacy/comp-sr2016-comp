@@ -33,7 +33,7 @@ delays:
 - delay: 600
   time: 2016-05-01 11:00:00+01:00
 - delay: 300
-  time: 2016-05-01 15:21:40+01:00
+  time: 2016-05-01 15:19:40+01:00
 #
 match_periods:
   league:
