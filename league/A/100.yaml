@@ -1,0 +1,30 @@
+arena_id: A
+arena_zones:
+  0:
+    tokens: ''
+  1:
+    tokens: ''
+  2:
+    tokens: ''
+  3:
+    tokens: ''
+  other:
+    tokens: WWWGOOOPY
+match_number: 100
+teams:
+  BRK:
+    disqualified: false
+    present: true
+    zone: 1
+  BRN:
+    disqualified: false
+    present: true
+    zone: 0
+  BWS:
+    disqualified: false
+    present: true
+    zone: 2
+  COR:
+    disqualified: false
+    present: false
+    zone: 3
