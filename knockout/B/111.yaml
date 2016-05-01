@@ -1,0 +1,30 @@
+arena_id: B
+arena_zones:
+  0:
+    tokens: ''
+  1:
+    tokens: O
+  2:
+    tokens: P
+  3:
+    tokens: ''
+  other:
+    tokens: GGWWWWW
+match_number: 111
+teams:
+  CLF:
+    disqualified: false
+    present: true
+    zone: 3
+  GRD:
+    disqualified: false
+    present: true
+    zone: 1
+  HAY:
+    disqualified: false
+    present: true
+    zone: 2
+  KEG:
+    disqualified: false
+    present: false
+    zone: 0
