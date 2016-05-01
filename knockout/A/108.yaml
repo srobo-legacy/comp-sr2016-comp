@@ -1,0 +1,22 @@
+arena_id: A
+arena_zones:
+  0:
+    tokens: ''
+  1:
+    tokens: ''
+  2:
+    tokens: G
+  3:
+    tokens: ''
+  other:
+    tokens: WWWWOWOP
+match_number: 108
+teams:
+  CAT:
+    disqualified: false
+    present: true
+    zone: 3
+  WGS:
+    disqualified: false
+    present: true
+    zone: 0
