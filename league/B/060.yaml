@@ -1,0 +1,30 @@
+arena_id: B
+arena_zones:
+  0:
+    tokens: ''
+  1:
+    tokens: ''
+  2:
+    tokens: ''
+  3:
+    tokens: ''
+  other:
+    tokens: WWWWWYGPP
+match_number: 60
+teams:
+  BDF:
+    disqualified: false
+    present: false
+    zone: 2
+  CGS:
+    disqualified: false
+    present: false
+    zone: 0
+  HSO:
+    disqualified: false
+    present: true
+    zone: 1
+  HZW:
+    disqualified: false
+    present: true
+    zone: 3
