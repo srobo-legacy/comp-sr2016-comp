@@ -1,0 +1,30 @@
+arena_id: A
+arena_zones:
+  0:
+    tokens: ''
+  1:
+    tokens: OG
+  2:
+    tokens: ''
+  3:
+    tokens: YW
+  other:
+    tokens: GOPWW
+match_number: 114
+teams:
+  DUL:
+    disqualified: false
+    present: true
+    zone: 2
+  KDE:
+    disqualified: false
+    present: true
+    zone: 0
+  PSC:
+    disqualified: false
+    present: true
+    zone: 3
+  RGS:
+    disqualified: false
+    present: true
+    zone: 1
