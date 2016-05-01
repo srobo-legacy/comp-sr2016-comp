@@ -1,0 +1,30 @@
+arena_id: B
+arena_zones:
+  0:
+    tokens: ''
+  1:
+    tokens: ''
+  2:
+    tokens: ''
+  3:
+    tokens: ''
+  other:
+    tokens: WWWWWWGOY
+match_number: 86
+teams:
+  BWS:
+    disqualified: false
+    present: true
+    zone: 0
+  CPR:
+    disqualified: false
+    present: true
+    zone: 2
+  KEG:
+    disqualified: false
+    present: true
+    zone: 3
+  KEV:
+    disqualified: false
+    present: false
+    zone: 1
