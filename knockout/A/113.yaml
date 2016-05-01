@@ -1,0 +1,30 @@
+arena_id: A
+arena_zones:
+  0:
+    tokens: ''
+  1:
+    tokens: ''
+  2:
+    tokens: ''
+  3:
+    tokens: ''
+  other:
+    tokens: WWWWWWGPY
+match_number: 113
+teams:
+  CAT:
+    disqualified: false
+    present: true
+    zone: 0
+  QMC:
+    disqualified: false
+    present: true
+    zone: 3
+  TLC:
+    disqualified: false
+    present: true
+    zone: 1
+  WGS:
+    disqualified: false
+    present: true
+    zone: 2
