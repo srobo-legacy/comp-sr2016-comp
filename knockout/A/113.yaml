@@ -17,7 +17,7 @@ teams:
     present: true
     zone: 0
   QMC:
-    disqualified: false
+    disqualified: true
     present: true
     zone: 3
   TLC:
