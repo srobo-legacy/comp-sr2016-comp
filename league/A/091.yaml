@@ -1,0 +1,30 @@
+arena_id: A
+arena_zones:
+  0:
+    tokens: ''
+  1:
+    tokens: ''
+  2:
+    tokens: P
+  3:
+    tokens: ''
+  other:
+    tokens: WWWWWGYO
+match_number: 91
+teams:
+  BWS:
+    disqualified: false
+    present: true
+    zone: 0
+  CLF:
+    disqualified: false
+    present: true
+    zone: 1
+  LSS:
+    disqualified: false
+    present: true
+    zone: 2
+  TLC:
+    disqualified: false
+    present: true
+    zone: 3
