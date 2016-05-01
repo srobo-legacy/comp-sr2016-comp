@@ -1,0 +1,30 @@
+arena_id: A
+arena_zones:
+  0:
+    tokens: ''
+  1:
+    tokens: O
+  2:
+    tokens: ''
+  3:
+    tokens: Y
+  other:
+    tokens: WWWWGYP
+match_number: 60
+teams:
+  CRB:
+    disqualified: false
+    present: true
+    zone: 1
+  HAY:
+    disqualified: false
+    present: true
+    zone: 2
+  PSC:
+    disqualified: false
+    present: true
+    zone: 0
+  RGS:
+    disqualified: false
+    present: true
+    zone: 3
