@@ -1,0 +1,22 @@
+arena_id: A
+arena_zones:
+  0:
+    tokens: ''
+  1:
+    tokens: ''
+  2:
+    tokens: ''
+  3:
+    tokens: ''
+  other:
+    tokens: WWWWWGOPY
+match_number: 78
+teams:
+  TLC:
+    disqualified: false
+    present: true
+    zone: 1
+  TTN:
+    disqualified: false
+    present: false
+    zone: 0
