@@ -1,0 +1,30 @@
+arena_id: A
+arena_zones:
+  0:
+    tokens: G
+  1:
+    tokens: O
+  2:
+    tokens: P
+  3:
+    tokens: ''
+  other:
+    tokens: YWWWWW
+match_number: 115
+teams:
+  CRB:
+    disqualified: false
+    present: true
+    zone: 3
+  GRD:
+    disqualified: false
+    present: true
+    zone: 1
+  GRD2:
+    disqualified: false
+    present: true
+    zone: 0
+  HAY:
+    disqualified: false
+    present: true
+    zone: 2
