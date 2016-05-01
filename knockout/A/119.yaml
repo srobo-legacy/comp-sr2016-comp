@@ -1,0 +1,30 @@
+arena_id: A
+arena_zones:
+  0:
+    tokens: ''
+  1:
+    tokens: O
+  2:
+    tokens: ''
+  3:
+    tokens: Y
+  other:
+    tokens: GGGWWWP
+match_number: 119
+teams:
+  BPV:
+    disqualified: false
+    present: true
+    zone: 2
+  BRK:
+    disqualified: false
+    present: true
+    zone: 0
+  QEH:
+    disqualified: false
+    present: true
+    zone: 1
+  TLC:
+    disqualified: false
+    present: true
+    zone: 3
