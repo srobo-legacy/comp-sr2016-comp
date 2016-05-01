@@ -1,0 +1,30 @@
+arena_id: B
+arena_zones:
+  0:
+    tokens: G
+  1:
+    tokens: O
+  2:
+    tokens: ''
+  3:
+    tokens: ''
+  other:
+    tokens: WWWWWYP
+match_number: 79
+teams:
+  BPV:
+    disqualified: false
+    present: true
+    zone: 2
+  HAY:
+    disqualified: false
+    present: true
+    zone: 0
+  HRS:
+    disqualified: false
+    present: true
+    zone: 3
+  HSO:
+    disqualified: false
+    present: true
+    zone: 1
