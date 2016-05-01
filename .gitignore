@@ -1,3 +1,5 @@
 /.update-lock
 /.update-pls
 *.pyc
+/tmp
+/knockouts.pdf
