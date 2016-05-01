@@ -1,0 +1,26 @@
+arena_id: B
+arena_zones:
+  0:
+    tokens: ''
+  1:
+    tokens: ''
+  2:
+    tokens: ''
+  3:
+    tokens: ''
+  other:
+    tokens: WWWWWGOPY
+match_number: 83
+teams:
+  BDF:
+    disqualified: false
+    present: true
+    zone: 1
+  CAT:
+    disqualified: false
+    present: true
+    zone: 0
+  CBG:
+    disqualified: false
+    present: true
+    zone: 3
