@@ -1,0 +1,30 @@
+arena_id: A
+arena_zones:
+  0:
+    tokens: ''
+  1:
+    tokens: ''
+  2:
+    tokens: P
+  3:
+    tokens: ''
+  other:
+    tokens: WWWWWGOY
+match_number: 81
+teams:
+  BPV2:
+    disqualified: false
+    present: true
+    zone: 1
+  CPR:
+    disqualified: false
+    present: true
+    zone: 3
+  KTC:
+    disqualified: false
+    present: false
+    zone: 0
+  RGS:
+    disqualified: false
+    present: true
+    zone: 2
