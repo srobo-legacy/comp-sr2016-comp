@@ -1,0 +1,30 @@
+arena_id: B
+arena_zones:
+  0:
+    tokens: ''
+  1:
+    tokens: ''
+  2:
+    tokens: ''
+  3:
+    tokens: Y
+  other:
+    tokens: WWWWWGOP
+match_number: 76
+teams:
+  BWS:
+    disqualified: false
+    present: true
+    zone: 1
+  KDE:
+    disqualified: false
+    present: true
+    zone: 3
+  KTC:
+    disqualified: false
+    present: false
+    zone: 0
+  RGS:
+    disqualified: false
+    present: true
+    zone: 2
