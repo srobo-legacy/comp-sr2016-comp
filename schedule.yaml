@@ -34,6 +34,8 @@ delays:
   time: 2016-05-01 11:00:00+01:00
 - delay: 300
   time: 2016-05-01 16:19:40+01:00
+- delay: 300
+  time: 2016-05-01 16:22:40+01:00
 #
 match_periods:
   league:
@@ -61,7 +63,7 @@ match_periods:
 #
   knockout:
   - start_time: 2016-05-01 15:00:00+01:00
-    end_time: 2016-05-01 17:00:00+01:00
+    end_time: 2016-05-01 17:30:00+01:00
     description: Knockouts
 #
 # Five minutes after the final, allows for rotating and possible delays
