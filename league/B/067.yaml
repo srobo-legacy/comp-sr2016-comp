@@ -1,0 +1,30 @@
+arena_id: B
+arena_zones:
+  0:
+    tokens: ''
+  1:
+    tokens: O
+  2:
+    tokens: ''
+  3:
+    tokens: ''
+  other:
+    tokens: WWWWWYPG
+match_number: 67
+teams:
+  CRB:
+    disqualified: false
+    present: true
+    zone: 1
+  HZW:
+    disqualified: false
+    present: true
+    zone: 0
+  TLC:
+    disqualified: false
+    present: true
+    zone: 2
+  TTN:
+    disqualified: false
+    present: false
+    zone: 3
