@@ -1,0 +1,26 @@
+arena_id: B
+arena_zones:
+  0:
+    tokens: ''
+  1:
+    tokens: ''
+  2:
+    tokens: PP
+  3:
+    tokens: ''
+  other:
+    tokens: GWOWWYW
+match_number: 109
+teams:
+  CHW:
+    disqualified: false
+    present: true
+    zone: 1
+  LSS:
+    disqualified: false
+    present: true
+    zone: 2
+  TWG:
+    disqualified: false
+    present: true
+    zone: 0
