@@ -22,9 +22,9 @@ teams:
     zone: 3
   KEV:
     disqualified: false
-    present: true
+    present: false
     zone: 2
   MFG:
     disqualified: false
-    present: false
+    present: true
     zone: 0
