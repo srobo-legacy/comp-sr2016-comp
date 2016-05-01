@@ -1,0 +1,30 @@
+arena_id: B
+arena_zones:
+  0:
+    tokens: ''
+  1:
+    tokens: ''
+  2:
+    tokens: ''
+  3:
+    tokens: ''
+  other:
+    tokens: WWWWWPOYG
+match_number: 74
+teams:
+  CLY:
+    disqualified: false
+    present: true
+    zone: 2
+  CPR:
+    disqualified: false
+    present: true
+    zone: 1
+  HSO:
+    disqualified: false
+    present: true
+    zone: 3
+  MAI:
+    disqualified: false
+    present: true
+    zone: 0
