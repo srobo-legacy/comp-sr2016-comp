@@ -38,6 +38,7 @@ teams:
   CLC:
     name: Southbridge
     rookie: false
+    dropped_out_after: 101
   CLF:
     name: Hammer-Time
     rookie: false
@@ -47,6 +48,7 @@ teams:
   COR:
     name: TCS Robotics
     rookie: true
+    dropped_out_after: 101
   CPR:
     name: Bicester Ocelots
     rookie: false
@@ -89,9 +91,11 @@ teams:
   KEV:
     name: King Edward VI School
     rookie: true
+    dropped_out_after: 101
   KTC:
     name: Kingsthorpe College
     rookie: true
+    dropped_out_after: 101
   LSS:
     name: Lawrence Sheriff School
     rookie: false
@@ -119,6 +123,7 @@ teams:
   SCS:
     name: Silcoates School
     rookie: true
+    dropped_out_after: 101
   SEN:
     name: Southend High School for Boys
     rookie: false
@@ -128,6 +133,7 @@ teams:
   TTN:
     name: TTN Robotics
     rookie: false
+    dropped_out_after: 101
   TWG:
     name: TWGSBrobotics
     rookie: false
