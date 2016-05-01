@@ -1,0 +1,30 @@
+arena_id: B
+arena_zones:
+  0:
+    tokens: G
+  1:
+    tokens: ''
+  2:
+    tokens: ''
+  3:
+    tokens: Y
+  other:
+    tokens: PWWWWWW
+match_number: 81
+teams:
+  BWS:
+    disqualified: false
+    present: true
+    zone: 2
+  KDE:
+    disqualified: false
+    present: true
+    zone: 3
+  KEG:
+    disqualified: false
+    present: true
+    zone: 0
+  QMC:
+    disqualified: false
+    present: false
+    zone: 1
