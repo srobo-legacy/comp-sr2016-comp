@@ -25,6 +25,6 @@ teams:
     present: true
     zone: 1
   WGS:
-    disqualified: false
+    disqualified: true
     present: true
     zone: 2
