@@ -1,0 +1,30 @@
+arena_id: A
+arena_zones:
+  0:
+    tokens: GG
+  1:
+    tokens: ''
+  2:
+    tokens: ''
+  3:
+    tokens: ''
+  other:
+    tokens: WWWYGOP
+match_number: 79
+teams:
+  GRD:
+    disqualified: false
+    present: true
+    zone: 2
+  MAI:
+    disqualified: false
+    present: true
+    zone: 1
+  PSC:
+    disqualified: false
+    present: true
+    zone: 0
+  TWG:
+    disqualified: false
+    present: true
+    zone: 3
