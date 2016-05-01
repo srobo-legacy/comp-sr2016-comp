@@ -1,0 +1,30 @@
+arena_id: A
+arena_zones:
+  0:
+    tokens: ''
+  1:
+    tokens: W
+  2:
+    tokens: ''
+  3:
+    tokens: ''
+  other:
+    tokens: WWWWGGOY
+match_number: 63
+teams:
+  CLC:
+    disqualified: false
+    present: false
+    zone: 3
+  CLF:
+    disqualified: false
+    present: false
+    zone: 2
+  CPR:
+    disqualified: false
+    present: false
+    zone: 0
+  QEH:
+    disqualified: false
+    present: true
+    zone: 1
