@@ -1,0 +1,26 @@
+arena_id: B
+arena_zones:
+  0:
+    tokens: ''
+  1:
+    tokens: ''
+  2:
+    tokens: OP
+  3:
+    tokens: ''
+  other:
+    tokens: WWWYYGO
+match_number: 84
+teams:
+  LSS:
+    disqualified: false
+    present: true
+    zone: 3
+  PSC:
+    disqualified: false
+    present: true
+    zone: 2
+  TWG:
+    disqualified: false
+    present: true
+    zone: 0
