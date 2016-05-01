@@ -1,0 +1,30 @@
+arena_id: B
+arena_zones:
+  0:
+    tokens: ''
+  1:
+    tokens: O
+  2:
+    tokens: G
+  3:
+    tokens: ''
+  other:
+    tokens: GYOWWWW
+match_number: 91
+teams:
+  CHB:
+    disqualified: false
+    present: true
+    zone: 0
+  KTC:
+    disqualified: false
+    present: false
+    zone: 3
+  PSC2:
+    disqualified: false
+    present: true
+    zone: 2
+  QMC:
+    disqualified: false
+    present: true
+    zone: 1
