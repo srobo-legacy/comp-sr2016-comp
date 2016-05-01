@@ -1,0 +1,26 @@
+arena_id: B
+arena_zones:
+  0:
+    tokens: ''
+  1:
+    tokens: ''
+  2:
+    tokens: ''
+  3:
+    tokens: ''
+  other:
+    tokens: GOWWPOWYO
+match_number: 107
+teams:
+  BDF:
+    disqualified: false
+    present: true
+    zone: 0
+  BRK:
+    disqualified: false
+    present: true
+    zone: 1
+  HSO:
+    disqualified: true
+    present: false
+    zone: 3
