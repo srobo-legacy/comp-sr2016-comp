@@ -1,0 +1,26 @@
+arena_id: B
+arena_zones:
+  0:
+    tokens: ''
+  1:
+    tokens: O
+  2:
+    tokens: ''
+  3:
+    tokens: ''
+  other:
+    tokens: GPPWWWWW
+match_number: 90
+teams:
+  CGS:
+    disqualified: false
+    present: true
+    zone: 1
+  GRD:
+    disqualified: false
+    present: true
+    zone: 0
+  HSO:
+    disqualified: false
+    present: true
+    zone: 3
