@@ -1,0 +1,22 @@
+arena_id: B
+arena_zones:
+  0:
+    tokens: ''
+  1:
+    tokens: O
+  2:
+    tokens: O
+  3:
+    tokens: ''
+  other:
+    tokens: GWWWYWP
+match_number: 106
+teams:
+  PSC2:
+    disqualified: false
+    present: true
+    zone: 2
+  QEH:
+    disqualified: false
+    present: true
+    zone: 1
