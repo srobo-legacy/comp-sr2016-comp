@@ -1,0 +1,30 @@
+arena_id: A
+arena_zones:
+  0:
+    tokens: G
+  1:
+    tokens: O
+  2:
+    tokens: ''
+  3:
+    tokens: Y
+  other:
+    tokens: WWWWPP
+match_number: 85
+teams:
+  BPV:
+    disqualified: false
+    present: true
+    zone: 0
+  CGS:
+    disqualified: false
+    present: true
+    zone: 1
+  HRS:
+    disqualified: false
+    present: true
+    zone: 3
+  WGS:
+    disqualified: false
+    present: true
+    zone: 2
