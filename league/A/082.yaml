@@ -1,0 +1,30 @@
+arena_id: A
+arena_zones:
+  0:
+    tokens: ''
+  1:
+    tokens: ''
+  2:
+    tokens: ''
+  3:
+    tokens: ''
+  other:
+    tokens: WWWWWGOPY
+match_number: 82
+teams:
+  BRK:
+    disqualified: false
+    present: true
+    zone: 0
+  CHW:
+    disqualified: false
+    present: true
+    zone: 1
+  MFG:
+    disqualified: false
+    present: true
+    zone: 2
+  SCS:
+    disqualified: false
+    present: true
+    zone: 3
