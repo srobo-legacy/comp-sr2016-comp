@@ -30,5 +30,8 @@ read do_print
 if [ -z "$do_print" ] || [ "$do_print" == "Y" ] || [ "$do_print" == "y" ]
 then
 	echo "Printing knockouts.pdf"
-	#lp knockouts.pdf
+	if [ "$1" != "--dry-run" ]
+	then
+		lp knockouts.pdf
+	fi
 fi
