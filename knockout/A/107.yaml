@@ -1,0 +1,22 @@
+arena_id: A
+arena_zones:
+  0:
+    tokens: ''
+  1:
+    tokens: ''
+  2:
+    tokens: ''
+  3:
+    tokens: ''
+  other:
+    tokens: YWGWWWPWO
+match_number: 107
+teams:
+  BPV2:
+    disqualified: false
+    present: true
+    zone: 2
+  SEN:
+    disqualified: false
+    present: true
+    zone: 0
