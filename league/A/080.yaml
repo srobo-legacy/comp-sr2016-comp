@@ -1,0 +1,30 @@
+arena_id: A
+arena_zones:
+  0:
+    tokens: ''
+  1:
+    tokens: O
+  2:
+    tokens: P
+  3:
+    tokens: ''
+  other:
+    tokens: WWWWWOG
+match_number: 80
+teams:
+  CGS:
+    disqualified: false
+    present: true
+    zone: 1
+  CLF:
+    disqualified: false
+    present: true
+    zone: 2
+  HAM:
+    disqualified: false
+    present: true
+    zone: 3
+  PSC2:
+    disqualified: false
+    present: true
+    zone: 0
