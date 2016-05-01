@@ -9,18 +9,9 @@ printer="srcomp print-schedule . --period $KNOCKOUTS_PERIOD"
 $printer --output tmp/knockout-all-colours.pdf
 $printer --plain --output tmp/knockout-plain.pdf
 
-for i in 0 1 2 3
-do
-	$printer --output tmp/knockout-shepherd-$i.pdf --shepherds $i
-done
-
 pdfjam --outfile knockouts.pdf \
 	tmp/knockout-all-colours.pdf \
-	tmp/knockout-plain.pdf tmp/knockout-plain.pdf \
-	tmp/knockout-shepherd-0.pdf \
-	tmp/knockout-shepherd-1.pdf \
-	tmp/knockout-shepherd-2.pdf \
-	tmp/knockout-shepherd-3.pdf
+	tmp/knockout-plain.pdf
 
 evince knockouts.pdf
 
